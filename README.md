@@ -27,4 +27,4 @@ The player can also be seen at the bottom right, so that you know how you stand 
 Once these steps have been completed, my app can be used by anyone.
 
 Demo video : 
-[![Watch the video](https://docs.google.com/drawings/d/1JwO3UCWRA6Mw8rD-b7g7Hggln_4HD850JozhbmCJfZM/edit?usp=sharing)](https://drive.google.com/file/d/1fwCnwPdXkSqfB9h6f3OPDpw14OHc_iUm/view?usp=sharing)
+[![Watch the video]](https://drive.google.com/file/d/1fwCnwPdXkSqfB9h6f3OPDpw14OHc_iUm/view?usp=sharing)
